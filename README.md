@@ -1,11 +1,19 @@
-# userForm
-Create new user in special form (html + css + java)
+# User Form - Tomcat + Jersey + Interface (html/css)
 
+The application presents a small user profile, with little functionality and simple interface. All information is converted to JSON format.
 
-https://github.com/akadatsky/addUserForm
+### Tech
 
-Доработать проект:
+* Tomcat;
+* Jersey;
+* Html/css;
+* JSON.
 
-1) Добавить на поле и в JSON для User еще одно поле, исправить ошибку что в поле Last name вводится возраст
+### Functions
 
-2*) Улучшить дизайн главной страницы и поля для ввода
+* Page Menu and Create user;
+* Display all users in memory.
+
+### Result
+
+![gif](https://github.com/bbogdasha/userForm/blob/master/gif/userForm.gif)
